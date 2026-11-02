@@ -1,1 +1,21 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Rutvi Patel — Software and Systems Engineer</title>
+<desc id="desc">Dark navy technology banner with connected system nodes and subtle circuit patterns.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d18"/><stop offset="1" stop-color="#14243b"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8ba6ca" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="350" rx="22" fill="url(#bg)"/><rect width="1200" height="350" rx="22" fill="url(#grid)"/>
+<path d="M790 65H900V125H1010V75H1160M820 285V230H960V275H1080V210H1190" fill="none" stroke="url(#glow)" stroke-width="2" stroke-opacity=".55"/>
+<g fill="#0c1728" stroke="#60a5fa" stroke-width="2">
+<rect x="875" y="48" width="50" height="34" rx="8"/><rect x="985" y="108" width="50" height="34" rx="8"/><rect x="1135" y="58" width="50" height="34" rx="8"/>
+<rect x="795" y="213" width="50" height="34" rx="8"/><rect x="935" y="258" width="50" height="34" rx="8"/><rect x="1055" y="193" width="50" height="34" rx="8"/>
+</g>
+<g fill="#7dd3fc"><circle cx="900" cy="65" r="4"/><circle cx="1010" cy="125" r="4"/><circle cx="1160" cy="75" r="4"/><circle cx="820" cy="230" r="4"/><circle cx="960" cy="275" r="4"/><circle cx="1080" cy="210" r="4"/></g>
+<rect x="68" y="65" width="5" height="220" rx="2.5" fill="url(#glow)"/>
+<text x="102" y="112" fill="#7dd3fc" font-family="ui-monospace,Menlo,monospace" font-size="16" letter-spacing="4">SOFTWARE / SYSTEMS / INTELLIGENCE</text>
+<text x="98" y="190" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Rutvi Patel</text>
+<text x="102" y="234" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">C++  ·  AI Integration  ·  Embedded &amp; Edge</text>
+<text x="102" y="280" fill="#94a3b8" font-family="ui-monospace,Menlo,monospace" font-size="14">BUILDING RELIABLE SYSTEMS. EXPLORING INTELLIGENT DEVICES.</text>
+</svg>
